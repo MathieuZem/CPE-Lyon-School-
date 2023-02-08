@@ -1,0 +1,16 @@
+set xrange [-15:15]
+set yrange [-15:15]
+set style fill transparent solid 0.9 noborder
+set title 'Top 10 colors'
+plot '-' with circles lc rgbcolor variable
+0 0 10 -36 0 0xouleurs: 10
+0 0 10 36 72 0x0f0f0d
+0 0 10 72 108 0x10100e
+0 0 10 108 144 0x0d0d0b
+0 0 10 144 180 0xe42338
+0 0 10 180 216 0xe52439
+0 0 10 216 252 0xe32235
+0 0 10 252 288 0x0c0c0a
+0 0 10 288 324 0x11110f
+0 0 10 324 360 0xe62538
+e

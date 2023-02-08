@@ -1,0 +1,11 @@
+(sabre)(sabre) Ce texte sert a tester le code
+de l'exercice 4.6 et (sabre) voir (sabre) si il
+fonctionne correctement, (sabre) je vais 
+donc placer des mots aléatroirement
+entre paranthèse et ce sera le mot 
+de test qui sera comparer avec le
+fichier, (sabre) il est (sabre) aussi (sabre) possible de 
+test d'autre (sabre) fichier tel que (sabre) fichier.c
+avec des mots comme (sabre) int ou size.(sabre)
+(sabre)(sabre)(sabre)(sabre)(sabre)(sabre)(sabre)(sabre)(sabre)(sabre)
+sabre

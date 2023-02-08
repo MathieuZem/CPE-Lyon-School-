@@ -1,0 +1,12 @@
+Couleur principal :
+orange : #F57E00
+Gris foncé : #333132
+GRis claire : #E9E9E9
+
+Couleur secondaire :
+jaune : #FABC0D
+milieu Jaune et orange : #DE920B
+orange Foncé : #DE590B
+orange qui tend vers le rouge : #FA420D
+Noir : #000000
+Blanc : #FFFFFF

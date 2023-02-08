@@ -1,0 +1,370 @@
+{
+  "porte": [
+    {
+      "nom": "Porte Dooritos",
+      "prix": "150€",
+      "lien": "dooritos",
+      "image": "../image/Porte_Doritos/porte-dooritos2.png",
+      "imagePrevisualisation": "../image/Porte_Doritos/Door-Itos1.2.jpg",
+      "alt": "Porte Dooritos",
+      "personnalisation": [
+        {
+          "Coloris": [
+            {
+              "Colo1": "rouge",
+              "prix1": "10",
+              "lien1": ""
+            },
+            {
+              "Colo2": "vert",
+              "prix2": "10",
+              "lien2": ""
+            },
+            {
+              "Colo3": "bleu",
+              "prix3": "10",
+              "lien3": ""
+            },
+            {
+              "Colo4": "violet",
+              "prix4": "10",
+              "lien4": ""
+            }
+          ],
+          "Motif": [
+            {
+              "Motif1": "Pikachu",
+              "prix1": "25",
+              "lien1": "",
+              "Motif2": "Donuts",
+              "prix2": "25",
+              "lien2": "",
+              "Motif3": "Yeti",
+              "prix3": "25",
+              "lien3": "",
+              "Motif4": "Damier",
+              "prix4": "25",
+              "lien4": ""
+            }
+          ],
+          "Pivot": [
+            {
+              "Pivot1": "Noir",
+              "prix1": "20",
+              "lien1": "",
+              "Pivot2": "Or",
+              "prix2": "20",
+              "lien2": "",
+              "Pivot3": "Gris",
+              "prix3": "20",
+              "lien3": "",
+              "Pivot4": "Blanc",
+              "prix4": "20",
+              "lien4": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Porte Classique",
+      "prix": "30€",
+      "lien": "classique",
+      "image": "../image/Porte_Classique/porte-classique2.png",
+      "imagePrevisualisation": "../image/Porte_Classique/porte-classique.png",
+      "alt": "Porte Classique",
+      "personnalisation": [
+        {
+          "Bois": [
+            {
+              "Colo1": "Chêne",
+              "prix1": "30",
+              "lien1": "",
+              "Colo2": "Ebêne",
+              "prix2": "58",
+              "lien2": "",
+              "Colo3": "Bois Blanc",
+              "prix3": "76",
+              "lien3": "",
+              "Colo4": "Bois Rouge",
+              "prix4": "100",
+              "lien4": ""
+            }
+          ],
+          "Gond": [
+            {
+              "Motif1": "Noir",
+              "prix1": "4",
+              "lien1": "",
+              "Motif2": "Blanc",
+              "prix2": "4",
+              "lien2": "",
+              "Motif3": "Gris",
+              "prix3": "4",
+              "lien3": ""
+            }
+          ],
+          "Poignet": [
+            {
+              "Pivot1": "Argent",
+              "prix1": "9",
+              "lien1": "",
+              "Pivot2": "Noir",
+              "prix2": "9",
+              "lien2": "",
+              "Pivot3": "Blanc",
+              "prix3": "9",
+              "lien3": "",
+              "Pivot4": "Or",
+              "prix4": "9",
+              "lien4": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Porte Coulissante",
+      "prix": "50€",
+      "lien": "coulissante",
+      "image": "../image/Porte_Coulissante/porte-coulissante2.png",
+      "imagePrevisualisation": "../image/Porte_Coulissante/porte-coulissante.jpg",
+      "alt": "Porte Coulissante",
+      "personnalisation": [
+        {
+          "Toile": [
+            {
+              "Colo1": "Blanc",
+              "lien1": "",
+              "prix1": "20",
+              "lien2": "",
+              "Colo2": "Noir",
+              "prix2": "20",
+              "lien3": "",
+              "Colo3": "Blanc Cassé",
+              "prix3": "20",
+              "lien4": ""
+            }
+          ],
+          "Bois": [
+            {
+              "Bois1": "Foncé",
+              "prix1": "30",
+              "lien1": "",
+              "Bois2": "Claire",
+              "prix2": "40",
+              "lien2": "",
+              "Bois3": "chêne",
+              "prix3": "25",
+              "lien3": ""
+            }
+          ],
+          "Drawing": [
+            {
+              "Pivot1": "Vague de Kanagawa",
+              "prix1": "67",
+              "lien1": "",
+              "Pivot2": "Soleil",
+              "prix2": "55",
+              "lien2": "",
+              "Pivot3": "Lune",
+              "prix3": "45",
+              "lien3": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Porte Blinde",
+      "prix": "250€",
+      "lien": "blinder",
+      "image": "../image/Porte_Blinde/porte-blinde2.png",
+      "imagePrevisualisation": "../image/Porte_Blinde/porte-blinder.png",
+      "alt": "Porte Blinde",
+      "personnalisation": [
+        {
+          "Coloris": [
+            {
+              "Colo1": "Gris",
+              "prix1": "20",
+              "lien1": "",
+              "Colo2": "Noir",
+              "prix2": "20",
+              "lien2": "",
+              "Colo3": "Blanc",
+              "prix3": "20",
+              "lien3": ""
+            }
+          ],
+          "Motif": [
+            {
+              "Motif1": "Pikachu",
+              "prix1": "30",
+              "lien1": "",
+              "Motif2": "Sécurisé",
+              "prix2": "30",
+              "lien2": ""
+            }
+          ],
+          "PasDePorte": [
+            {
+              "Colo1": "Gris",
+              "prix1": "20",
+              "lien1": "",
+              "Colo2": "Noir",
+              "prix2": "20",
+              "lien2": "",
+              "Colo3": "Blanc",
+              "prix3": "20",
+              "lien3": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Porte Fenêtre",
+      "prix": "110€",
+      "lien": "fenetre",
+      "image": "../image/Porte_Fenêtre/porte-fenetre2.png",
+      "imagePrevisualisation": "../image/Porte_Fenêtre/porte-fenetre.jpeg",
+      "alt": "Porte Fenêtre",
+      "personnalisation": [
+        {
+          "Coloris": [
+            {
+              "Colo1": "rouge",
+              "prix1": "20",
+              "lien1": "",
+              "Colo2": "noir",
+              "prix2": "20",
+              "lien2": "",
+              "Colo3": "blanc",
+              "prix3": "20",
+              "lien3": "",
+              "Colo4": "gris",
+              "prix4": "20",
+              "lien4": ""
+            }
+          ],
+          "Teinte": [
+            {
+              "Teinte": "Non",
+              "prix1": "0",
+              "lien1": "",
+              "Teinte2": "teinter 1 sense",
+              "prix2": "55",
+              "lien2": "",
+              "Teinte3": "teinter 2 sense",
+              "prix3": "100",
+              "lien3": ""
+            }
+          ],
+          "Poignet": [
+            {
+              "Poignet1": "rouge",
+              "prix1": "9",
+              "lien1": "",
+              "Poignet2": "noir",
+              "prix2": "9",
+              "lien2": "",
+              "Poignet3": "blanc",
+              "prix3": "9",
+              "lien3": "",
+              "Poignet4": "gris",
+              "prix4": "9",
+              "lien4": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Porte de Garage",
+      "prix": "180€",
+      "lien": "garage",
+      "image": "../image/Porte_de_Garage/porte-de-garage2.png",
+      "imagePrevisualisation": "../image/Porte_de_Garage/porte-de-garage.jpg",
+      "alt": "Porte de Garage",
+      "personnalisation": [
+        {
+          "Coloris": [
+            {
+              "Colo1": "noir",
+              "prix1": "20",
+              "lien1": "",
+              "Colo2": "blanc",
+              "prix2": "20",
+              "lien2": "",
+              "Colo3": "rouge",
+              "prix3": "20",
+              "lien3": "",
+              "Colo4": "vert",
+              "prix4": "20",
+              "lien4": ""
+            }
+          ],
+          "Motif": [
+            {
+              "Pivot1": "tunnel",
+              "prix1": "30",
+              "lien1": "",
+              "Pivot2": "feuille",
+              "prix2": "30",
+              "lien2": "",
+              "Pivot3": "pikachu",
+              "prix3": "30",
+              "lien3": ""
+            }
+          ],
+          "Porte": [
+            {
+              "Avec": "Avec",
+              "prix1": "60",
+              "lien1": "",
+              "Sans": "Sans",
+              "prix2": "0",
+              "lien2": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Porte Coupe-Feu",
+      "prix": "200€",
+      "lien": "coupefeu",
+      "image": "../image/Porte_Coupe-Feu/porte-coupe-feu.jpg",
+      "imagePrevisualisation": "../image/Porte_Coupe-Feu/porte-coupe-feu.jpg",
+      "alt": "Porte Coupe-Feu",
+      "personnalisation": [
+        {
+          "Coloris": [
+            {
+              "Colo1": "Gris",
+              "prix1": "20",
+              "lien1": "",
+              "Colo2": "Noir",
+              "prix2": "20",
+              "lien2": "",
+              "Colo3": "Blanc",
+              "prix3": "20",
+              "lien3": ""
+            }
+          ],
+          "hublot": [
+            {
+              "Avec": "Avec",
+              "prix1": "35",
+              "lien1": "",
+              "Sans": "Sans",
+              "prix2": "20",
+              "lien2": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+void inserer(struct LinkedList* head, int value)

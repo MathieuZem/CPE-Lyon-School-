@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Page du panier</title>
+    <link rel="stylesheet" href="../CSS/styles_index.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script src="../JS/JS.js"></script>
+</head>
+
+<body>
+    <header id="nav"></header>
+
+    CONTENU DU PANIER
+
+    <div id="popup">
+        <form id="form" action=# method="POST">
+            <label> Remplissage obligatoire : </label><br>
+            <br>
+            Nom :<input type="text" name="lastname"><br>
+            Prénom :<input type="text" name="firstname"><br>
+            Adresse mail :<input type="email" name="mail"><br>
+            Numéro de téléphone :<input type="tel" name="phone"><br>
+            Date de livraison :<input type="date" name="datelivraison"><br>
+            <br>
+            <label> Adresse de livraison :</label><br>
+            <br>
+            Numéro de rue :<input type="number" name="numéroderue"><br>
+            Nom de la rue :<input type="text" name="rue"><br>
+            Nom de la ville :<input type="text" name="ville"><br>
+            Code postale :<input type="number" name="postale"><br>
+            <a href="Récapitulatif.html"><input type="submit" value="Commander"></a>
+        </form>
+    </div>
+
+    <div id="boutoncommande">
+        <input type="button" value="Commander" onclick="openForm()">
+    </div>
+
+    <div id="clearall">
+        <input type="button" value="Tout effacer" onclick="clearPanier()">
+    </div>
+
+    <div id="return"></div>
+    <footer id="basdepage"></footer>
+</body>

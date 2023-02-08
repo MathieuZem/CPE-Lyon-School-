@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/fs03/share/users/mathieu.zeman/home/Bureau/C++/TP1/code/01_tutorial_compilation/02_fichiers_multiples/04_cmake/src/lib1.cpp
+lib1.hpp
+/fs03/share/users/mathieu.zeman/home/Bureau/C++/TP1/code/01_tutorial_compilation/02_fichiers_multiples/04_cmake/src/lib1.hpp
+iostream
+-
+
+/fs03/share/users/mathieu.zeman/home/Bureau/C++/TP1/code/01_tutorial_compilation/02_fichiers_multiples/04_cmake/src/lib1.hpp
+
+/fs03/share/users/mathieu.zeman/home/Bureau/C++/TP1/code/01_tutorial_compilation/02_fichiers_multiples/04_cmake/src/main.cpp
+lib1.hpp
+/fs03/share/users/mathieu.zeman/home/Bureau/C++/TP1/code/01_tutorial_compilation/02_fichiers_multiples/04_cmake/src/lib1.hpp
+iostream
+-
+string
+-
+
